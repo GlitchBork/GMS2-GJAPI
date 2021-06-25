@@ -23,7 +23,7 @@ By exercising the Licensed Rights (defined below), You accept and agree to be bo
 
 `g`. **License Elements** means the license attributes listed in the name of a Creative Commons Public License. The License Elements of this Public License are Attribution and ShareAlike.
 
-`h`. ***Licensed Material** means the artistic or literary work, database, or other material to which the Licensor applied this Public License.
+`h`. **Licensed Material** means the artistic or literary work, database, or other material to which the Licensor applied this Public License.
 
 `i`. **Licensed Rights** means the rights granted to You subject to the terms and conditions of this Public License, which are limited to all Copyright and Similar Rights that apply to Your use of the Licensed Material and that the Licensor has authority to license.
 
